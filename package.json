@@ -1,28 +1,27 @@
 {
-  "author": {
-    "name": "AlexLitv",
-    "email": "trustyWork@gmail.com"
-  },
-  "main": "src/index.scss",
-  "bugs": {
-    "url": "https://github.com/TrustyWork/flexboxgrid2-scssmixins/issues"
-  },
+  "name": "flexboxgrid2-scssmixins",
   "description": "Reponsove mixins for react-flexbox-grid package",
-  "homepage": "https://github.com/TrustyWork/flexboxgrid2-scssmixins",
+  "version": "0.0.1",
   "keywords": [
-    "css modules",
-    "flexbox",
     "grid",
     "scss",
     "mixin",
-    "react-flexbox-grid",
-    "flexboxgrid2"
+    "react-flexbox-grid"
   ],
-  "license": "MIT",
-  "name": "flexboxgrid2-scssmixins",
-    "repository": {
-    "type": "git",
-    "url": "https://github.com/TrustyWork/flexboxgrid2-scssmixins.git"
+  "bugs": {
+    "web": "https://github.com/TrustyWork/flexboxgrid2-scssmixins/issues"
   },
- "version": "1.0.0"
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/TrustyWork/flexboxgrid2-scssmixins.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": ""
+    }
+  ],
+  "homepage": "https://github.com/TrustyWork/flexboxgrid2-scssmixins"
 }
